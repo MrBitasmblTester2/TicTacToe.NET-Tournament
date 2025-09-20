@@ -1,0 +1,1 @@
+// Controllers/MatchController.cs\nusing Microsoft.AspNetCore.Mvc;\n[ApiController]\n[Route("api/matches")]\npublic class MatchController : ControllerBase { /* TODO: bracket logic */ }
