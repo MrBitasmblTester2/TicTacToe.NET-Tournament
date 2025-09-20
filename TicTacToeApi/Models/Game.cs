@@ -1,0 +1,1 @@
+// Models/Game.cs\nnamespace TicTacToeApi.Models {\n  public class Game { public int Id {get;set;} public int TournamentId {get;set;} /* status, moves etc. */ }\n}
