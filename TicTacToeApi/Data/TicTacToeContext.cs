@@ -1,0 +1,1 @@
+// Data/TicTacToeContext.cs\nusing Microsoft.EntityFrameworkCore;\nusing TicTacToeApi.Models;\npublic class TicTacToeContext : DbContext {\n  public TicTacToeContext(DbContextOptions opts):base(opts){}\n  public DbSet<Game> Games => Set<Game>();\n  public DbSet<Tournament> Tournaments => Set<Tournament>();\n}
