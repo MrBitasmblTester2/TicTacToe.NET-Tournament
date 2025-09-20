@@ -1,0 +1,1 @@
+// Controllers/GameController.cs\nusing Microsoft.AspNetCore.Mvc;\n[ApiController]\n[Route("api/games")]\npublic class GameController : ControllerBase { /* POST api/games/{id}/move */ }
