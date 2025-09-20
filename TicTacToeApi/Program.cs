@@ -1,0 +1,1 @@
+// Program.cs\nusing Microsoft.AspNetCore.Builder;\nvar builder = WebApplication.CreateBuilder(args);\nbuilder.Services.AddControllers();\nbuilder.Services.AddCors(opts=>opts.AddDefaultPolicy(p=>p.AllowAnyOrigin()));\nvar app = builder.Build();\napp.UseCors();\napp.MapControllers();\napp.Run();
