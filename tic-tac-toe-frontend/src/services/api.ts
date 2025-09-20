@@ -1,0 +1,1 @@
+// src/services/api.ts\nexport const fetchTournaments = async () => fetch('/api/tournaments').then(r=>r.json());
