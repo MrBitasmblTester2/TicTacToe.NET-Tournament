@@ -1,0 +1,1 @@
+// src/components/Bracket.tsx\nimport React from 'react';\nconst Bracket = () => (<div>/* bracket UI here */</div>);\nexport default Bracket;
