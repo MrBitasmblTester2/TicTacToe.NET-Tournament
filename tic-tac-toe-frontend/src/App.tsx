@@ -1,0 +1,1 @@
+// src/App.tsx\nimport React from 'react';\nfunction App() { return <div>Tic-Tac-Toe Tournament App</div>; }\nexport default App;
