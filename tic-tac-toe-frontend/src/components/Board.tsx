@@ -1,0 +1,1 @@
+// src/components/Board.tsx\nimport React from 'react';\nconst Board = () => (<div>/* board UI here */</div>);\nexport default Board;
