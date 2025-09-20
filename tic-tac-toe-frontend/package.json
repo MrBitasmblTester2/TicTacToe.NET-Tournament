@@ -1,0 +1,1 @@
+{\n  \"name\":\"tic-tac-toe-frontend\",\n  \"version\":\"0.1.0\",\n  \"private\":true,\n  \"dependencies\":{\"react\":\"^18.0.0\",\"react-dom\":\"^18.0.0\"}\n} 
