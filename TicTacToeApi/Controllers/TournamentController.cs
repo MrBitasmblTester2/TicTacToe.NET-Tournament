@@ -1,0 +1,1 @@
+// Controllers/TournamentController.cs\nusing Microsoft.AspNetCore.Mvc;\n[ApiController]\n[Route("api/tournaments")]\npublic class TournamentController : ControllerBase { /* TODO: CRUD actions */ }
